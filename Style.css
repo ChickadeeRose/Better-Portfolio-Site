@@ -1,5 +1,5 @@
 html{
-    background-color: #373e40;
+    background-color: #305252;
 }
 section{
     background-color: #B7D5D4;
@@ -25,3 +25,19 @@ footer{
     height: 150px;
     border-radius: 30px 30px 30px 30px;
 }
+@font-face {
+  font-family: 'Spheris';
+  src: url('fonts/Spheris-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+/* font-family: 'Spheris', sans-serif; */
+
+@font-face {
+  font-family: 'Oceanside Typewriter';
+  src: url('fonts/Oceanside Typewriter.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+/* font-family: 'Oceanside Typewriter', monospace; */
+/* for headers */
